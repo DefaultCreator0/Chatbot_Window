@@ -1,0 +1,55 @@
+h1 {
+  font-size: 2em;
+  margin-left: 35%;
+  margin-right: 25%;
+}
+
+.outer {
+  background-image: linear-gradient(rgb(210, 210, 210), rgb(137, 136, 136));
+  height: 26em;
+  width: 15em;
+  position: absolute;
+  right: 0px;
+  border-radius: 1em;
+  text-align: center;
+}
+.inner {
+  background-color: rgb(228, 228, 228);
+  margin-top: -1em;
+  margin-left: 0.2em;
+  margin-right: 1em;
+  position: absolute;
+  height: 17em;
+  width: 14.5em;
+  border-radius: 1em;
+  text-align: left;
+}
+.User {
+  background-color: rgb(228, 228, 228);
+  margin-top: -0.5em;
+  height: 4em;
+  margin-left: 1em;
+  margin-right: 3.5em;
+  border-radius: 1em;
+  text-align: left;
+}
+.Seperator {
+  margin: auto;
+  width: 85%;
+  margin-left: 1em;
+  background-color: azure;
+  margin-top: 17.5em;
+  height: 0.2em;
+  border-radius: 1em;
+}
+.Button {
+  background-color: aquamarine;
+  height: 2em;
+  border-radius: 20em;
+  width: 2em;
+  margin-left: 12em;
+  margin-top: -2.7em;
+}
+h3 {
+  margin-left: 0.7em;
+}
